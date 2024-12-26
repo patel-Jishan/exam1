@@ -1,0 +1,52 @@
+body{
+height:100vh;
+
+background:url(https://c4.wallpaperflare.com/wallpaper/15/350/515/tilt-shift-new-york-city-times-square-city-wallpaper-preview.jpg);
+background-size:100% 100%;
+background-position:center;
+background-repeat:no-repeat;
+}
+form { 
+   background-color:#63a89e;
+  border-radius:30px;
+      width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+	  color:white;
+    }
+    input[type="text"],
+    input[type="email"],
+    input[type="number"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+	  
+	 
+    }
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      cursor: pointer;
+    }
+	h2{
+		color:green;
+		margin-left:88px;
+	}
+	.submit{
+		margin-top:25px;
+		margin-left:140px;
+	}
+	.img{
+		color:white;
+	}
